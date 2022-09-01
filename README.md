@@ -4,4 +4,4 @@ NPM     : 2106750276
 
 Kelas   : C
 
-Hobi    : Ngoding, Main Gitar
+Hobi    : Ngoding, Main Gendang
