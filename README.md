@@ -1,0 +1,5 @@
+Nama    : Alek Yoanda Partogi Tampubolon
+
+NPM     : 2106750276
+
+Kelas   : C
